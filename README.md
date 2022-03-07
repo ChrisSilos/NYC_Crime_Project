@@ -1,5 +1,5 @@
 # NYC_Crime_Project
-Scripts for cleaning and combining crime datasets
+These scripts use the pandas library to merge NYC crime datasets for use in a larger project. 
 
 Two of the scripts clean individual datasets downloaded from OpenNYC
 
